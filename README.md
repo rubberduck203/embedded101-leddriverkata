@@ -5,10 +5,10 @@
 Running `make` will build and run the tests, then, if successful, compile, link, and generate the `*.hex` file for your avr device.
 
 Stories:
-  - [ ] Turn ALL LEDs on
-  - [ ] Turn ALL LEDs off
+  - [x] Turn ALL LEDs on
+  - [x] Turn ALL LEDs off
   - [x] Turn Single LED on
-  - [ ] Turn Single LED off
+  - [x] Turn Single LED off
   - [x] Initialize the LEDs to off
   - [ ] Oops! It's active low!
 
